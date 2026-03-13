@@ -1,0 +1,33 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Thumbnails
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.swp
+*~
+
+# Client-specific sensitive data (don't commit to public repo)
+clients/*/config-backup.js
+
+# Editor directories
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Backup files
+*.bak
+*.backup
+
+# Log files
+*.log
+
+# Environment files (if you add any)
+.env
+.env.local
